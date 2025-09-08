@@ -1,2 +1,2 @@
 # hackton
-decops
+devops
